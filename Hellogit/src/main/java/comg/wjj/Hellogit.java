@@ -5,6 +5,7 @@ public class Hellogit {
         System.out.println("欢迎来到git");
         System.out.println("更新1");
         System.out.println("创建分支完成");
-        System.out.println("主干添加");
+        System.out.println("主干添加1");
+
     }
 }
